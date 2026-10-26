@@ -16,13 +16,13 @@ The only remaining branch is `main`. Both practice files are present after mergi
 
 [Lab8.jpg](Lab8.jpg)
 
-The image captures the real output of these commands in a local command-output viewer:
+The image is a direct capture of a Windows Command Prompt window running these commands:
 
 ```sh
 git log --oneline --decorate --graph --all
 git branch
 ```
 
-The screenshot was taken after the practice history was pushed and the temporary branch was deleted, before the separate submission-files commit. The same command output is preserved in [Lab8-log.txt](Lab8-log.txt).
+The screenshot records commit `95fee15`, after the practice history and initial submission files were pushed and the temporary branch was deleted. The following screenshot-replacement commit is naturally not shown in the image itself. The same command output is preserved in [Lab8-log.txt](Lab8-log.txt).
 
 ![Lab 8 Git graph](Lab8.jpg)

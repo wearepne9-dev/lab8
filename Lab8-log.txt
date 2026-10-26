@@ -1,9 +1,10 @@
 git log --oneline --decorate --graph --all
-*   cd9bb19 (HEAD -> main, origin/main) Merge testing feature into main
-|\  
+* 95fee15 (HEAD -> main, origin/main) Add Lab 8 result screenshot and practice notes
+*   cd9bb19 Merge testing feature into main
+|\
 | * e0f96fc new feature
 * | 52978b6 issue resolved
-|/  
+|/
 * 5372a65 third commit
 * 0a135bd second commit
 * 6a18003 first commit
